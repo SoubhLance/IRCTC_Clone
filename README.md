@@ -17,8 +17,17 @@ This is a simple clone of the Indian Railway Catering and Tourism Corporation (I
   
 ## Screenshots
 
-![Homepage](path-to-your-screenshot.png)
+![image](https://github.com/user-attachments/assets/6df3542e-9f9c-49ae-8ed4-b64b52e4064e)
+
 *Screenshot of the homepage.*
+
+## Demo
+
+Check out the live demo of the IRCTC Clone:
+
+- You can explore the hosted version of the project at: [[IRCTC Clone Live](https://your-live-demo-url.com)](https://irctc-clone-rlzv13unt-soubhiks-projects.vercel.app/)
+
+
 
 ## Getting Started
 
